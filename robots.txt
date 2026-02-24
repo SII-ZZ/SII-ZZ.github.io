@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sii-zz.github.io/sitemap.xml
